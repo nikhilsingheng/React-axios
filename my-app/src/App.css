@@ -1,0 +1,33 @@
+div{
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  margin-left: 35px;
+  margin-right: 35px;
+  margin-top: -15px;
+  text-transform: uppercase;
+   font-weight: bold;
+  font-family: Roboto;
+ text-shadow: 5px 5px 10px white;
+ background-color: teal;
+ font-size: 15px;
+ 
+  
+  
+}
+h1 {
+  
+  background:yellowgreen;
+  padding-left:  450px;
+  padding-top: 10px;
+ 
+  
+ 
+ 
+}
+label{
+  padding-left: 400px;
+  margin-top: 20px;
+}
+button{
+  color: rgb(194, 171, 171);
+  background-color: red;
+}
